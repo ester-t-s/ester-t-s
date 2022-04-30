@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ester
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science and cartography
 - 🌱 I’m currently learning coding with Python
 - 💞️ I’m looking to collaborate on data science projects on social justice topics
 - 📫 How to reach me ...
